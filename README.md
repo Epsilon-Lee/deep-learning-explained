@@ -1,15 +1,34 @@
-## deep learning explained from `theory` to `empiricals`
+
+# Deep learning explained from `theory` to `empiricals`
 
 A collection of papers that try to explain the mysteries of deep learning with theories and empirical evidences.
+
+
+## Theory-oriented explanations
 
 ### Training: SGD, learning dynamics, curriculum
 
 - [Stochastic Training is Not Necessary for Generalization](https://arxiv.org/pdf/2109.14119.pdf), Tom Goldstein's group, `nips2021`.
+- [Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://arxiv.org/pdf/2110.03677.pdf), Tuo Zhao's group.
+- [Momentum Doesn't Change The Implicit Bias](https://arxiv.org/pdf/2110.03891.pdf).
 
+
+### Architectural bias
+
+- [On Margin Maximization in Linear and ReLU Networks](https://arxiv.org/pdf/2110.02732.pdf), Nathan Srebro's group.
+
+
+## Empirical explanations
 
 ### Data-centric understanding
 
 - [Deep Learning Through the Lens of Example Difficulty](https://arxiv.org/pdf/2106.09647.pdf), Google Research 2021.
+
+
+
+### Generalization metrics
+
+- [Neural Tangent Kernel Eigenvalues Accurately Predict Generalization](https://arxiv.org/pdf/2110.03922.pdf), UCB.
 
 
 ### Other learning paradigms related to deep learning
