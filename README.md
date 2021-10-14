@@ -29,6 +29,7 @@ A collection of papers that try to explain the mysteries of deep learning with t
 ### Generalization metrics
 
 - [Neural Tangent Kernel Eigenvalues Accurately Predict Generalization](https://arxiv.org/pdf/2110.03922.pdf), UCB.
+- [Predicting Unreliable Predictions by Shattering a Neural Network](https://arxiv.org/abs/2106.08365), 2021, Yoshua Bengio's group.
 
 
 ### Other learning paradigms related to deep learning
