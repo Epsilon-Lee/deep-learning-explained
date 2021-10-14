@@ -13,9 +13,12 @@ A collection of papers that try to explain the mysteries of deep learning with t
 - [Momentum Doesn't Change The Implicit Bias](https://arxiv.org/pdf/2110.03891.pdf).
 
 
-### Architectural bias
+### Understanding inductive bias: architectural bias, algorithmic bias etc.
 
-- [On Margin Maximization in Linear and ReLU Networks](https://arxiv.org/pdf/2110.02732.pdf), Nathan Srebro's group.
+- [On Margin Maximization in Linear and ReLU Networks](https://arxiv.org/pdf/2110.02732.pdf), Nathan Srebro's group, 2021.
+- [The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks](https://arxiv.org/pdf/2110.06296.pdf), 2021, Google Research.
+
+
 
 
 ## Empirical explanations
