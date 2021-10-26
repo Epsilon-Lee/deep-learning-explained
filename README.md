@@ -23,6 +23,10 @@ A collection of papers that try to explain the mysteries of deep learning with t
 descent can further improve generalisation by selecting networks with a large margin."*
 
 
+### Interpolation and Extrapolation
+
+- [Learning in High Dimension Always Amounts to Extrapolation](https://arxiv.org/abs/2110.09485), Oct. 18 2021, Yann LeCun et al.
+
 ## Empirical explanations
 
 ### Data-centric understanding
@@ -35,7 +39,7 @@ descent can further improve generalisation by selecting networks with a large ma
 
 - [Neural Tangent Kernel Eigenvalues Accurately Predict Generalization](https://arxiv.org/pdf/2110.03922.pdf), UCB.
 - [Predicting Unreliable Predictions by Shattering a Neural Network](https://arxiv.org/abs/2106.08365), 2021, Yoshua Bengio's group.
-
+- []
 
 ### Other learning paradigms related to deep learning
 
