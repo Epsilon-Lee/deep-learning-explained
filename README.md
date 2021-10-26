@@ -21,7 +21,7 @@ A collection of papers that try to explain the mysteries of deep learning with t
 - [On the Implicit Biases of Architecture & Gradient Descent](https://arxiv.org/pdf/2110.04274.pdf), 2021, Yisong Yue's group.
   - *"This paper finds that while typical networks that fit the training data already generalise fairly well, gradient
 descent can further improve generalisation by selecting networks with a large margin."*
-
+- [The Deep Bootstrap Framework: Good Online Learners Are Good Offline Generalizers](https://arxiv.org/pdf/2010.08127.pdf), Feb. 2021. `iclr2021`
 
 ### Interpolation and Extrapolation
 
@@ -34,12 +34,11 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Deep Learning Through the Lens of Example Difficulty](https://arxiv.org/pdf/2106.09647.pdf), Google Research 2021.
 
 
-
 ### Generalization metrics
 
-- [Neural Tangent Kernel Eigenvalues Accurately Predict Generalization](https://arxiv.org/pdf/2110.03922.pdf), UCB.
+- [Neural Tangent Kernel Eigenvalues Accurately Predict Generalization](https://arxiv.org/pdf/2110.03922.pdf), UCB，`nips2021` spotlight. 
 - [Predicting Unreliable Predictions by Shattering a Neural Network](https://arxiv.org/abs/2106.08365), 2021, Yoshua Bengio's group.
-- []
+
 
 ### Other learning paradigms related to deep learning
 
