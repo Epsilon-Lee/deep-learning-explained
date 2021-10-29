@@ -24,7 +24,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [The Deep Bootstrap Framework: Good Online Learners Are Good Offline Generalizers](https://arxiv.org/pdf/2010.08127.pdf), Feb. 2021. `iclr2021`
 - [No One Representation to Rule Them All: Overlapping Features of Training Methods](https://arxiv.org/pdf/2110.12899.pdf), Oct. 26 2021.
 - [Gradient Descent on Two-layer Nets: Margin Maximization and Simplicity Bias](https://arxiv.org/abs/2110.13905), Oct. 26. 2021.
-
+- [Diversity and Generalization in Neural Network Ensembles](https://arxiv.org/pdf/2110.13786.pdf), Oct. 6 2021.
 
 ### Interpolation and Extrapolation
 
