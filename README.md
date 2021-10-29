@@ -22,6 +22,9 @@ A collection of papers that try to explain the mysteries of deep learning with t
   - *"This paper finds that while typical networks that fit the training data already generalise fairly well, gradient
 descent can further improve generalisation by selecting networks with a large margin."*
 - [The Deep Bootstrap Framework: Good Online Learners Are Good Offline Generalizers](https://arxiv.org/pdf/2010.08127.pdf), Feb. 2021. `iclr2021`
+- [No One Representation to Rule Them All: Overlapping Features of Training Methods](https://arxiv.org/pdf/2110.12899.pdf), Oct. 26 2021.
+- [Gradient Descent on Two-layer Nets: Margin Maximization and Simplicity Bias](https://arxiv.org/abs/2110.13905), Oct. 26. 2021.
+
 
 ### Interpolation and Extrapolation
 
