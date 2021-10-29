@@ -12,7 +12,7 @@ A collection of papers that try to explain the mysteries of deep learning with t
 - [Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://arxiv.org/pdf/2110.03677.pdf), Tuo Zhao's group.
 - [Momentum Doesn't Change The Implicit Bias](https://arxiv.org/pdf/2110.03891.pdf).
 - [On the Implicit Biases of Architecture & Gradient Descent](https://arxiv.org/pdf/2110.04274.pdf), 2021, Yisong Yue's group, `implicit bias` of `gd`
-
+- [Parameter Prediction for Unseen Deep Architectures](https://arxiv.org/pdf/2110.13100.pdf), Oct. 25 2021.
 
 ### Understanding inductive bias: architectural bias, algorithmic bias etc.
 
