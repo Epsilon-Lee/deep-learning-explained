@@ -14,6 +14,8 @@ A collection of papers that try to explain the mysteries of deep learning with t
 - [Momentum Doesn't Change The Implicit Bias](https://arxiv.org/pdf/2110.03891.pdf).
 - [On the Implicit Biases of Architecture & Gradient Descent](https://arxiv.org/pdf/2110.04274.pdf), 2021, Yisong Yue's group, `implicit bias` of `gd`
 - [Parameter Prediction for Unseen Deep Architectures](https://arxiv.org/pdf/2110.13100.pdf), Oct. 25 2021.
+- [Gradient Starvation: A Learning Proclivity in Neural Networks](https://arxiv.org/pdf/2011.09468.pdf), Oct. 26 2021. `nips2021`
+
 
 #### Training tricks
 
@@ -39,6 +41,11 @@ descent can further improve generalisation by selecting networks with a large ma
 
 
 ## Empirical explanations
+
+### Explaining representational power
+
+- [Revisiting Model Stitching to Compare Neural Representations](https://arxiv.org/pdf/2106.07682.pdf), Jun. 14 2021. `representation comparison`
+
 
 ### Data-centric understanding
 
