@@ -6,6 +6,7 @@ A collection of papers that try to explain the mysteries of deep learning with t
 
 ## Theory-oriented explanations
 
+
 ### Training: SGD, learning dynamics, curriculum
 
 - [Stochastic Training is Not Necessary for Generalization](https://arxiv.org/pdf/2109.14119.pdf), Tom Goldstein's group, `nips2021`.
@@ -13,6 +14,11 @@ A collection of papers that try to explain the mysteries of deep learning with t
 - [Momentum Doesn't Change The Implicit Bias](https://arxiv.org/pdf/2110.03891.pdf).
 - [On the Implicit Biases of Architecture & Gradient Descent](https://arxiv.org/pdf/2110.04274.pdf), 2021, Yisong Yue's group, `implicit bias` of `gd`
 - [Parameter Prediction for Unseen Deep Architectures](https://arxiv.org/pdf/2110.13100.pdf), Oct. 25 2021.
+
+#### Training tricks
+
+- [Does Knowledge Distillation Really Work?](https://arxiv.org/pdf/2106.05945.pdf), Jun. 10 2021. `nips2021`
+
 
 ### Understanding inductive bias: architectural bias, algorithmic bias etc.
 
@@ -26,9 +32,11 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Gradient Descent on Two-layer Nets: Margin Maximization and Simplicity Bias](https://arxiv.org/abs/2110.13905), Oct. 26. 2021.
 - [Diversity and Generalization in Neural Network Ensembles](https://arxiv.org/pdf/2110.13786.pdf), Oct. 6 2021.
 
+
 ### Interpolation and Extrapolation
 
 - [Learning in High Dimension Always Amounts to Extrapolation](https://arxiv.org/abs/2110.09485), Oct. 18 2021, Yann LeCun et al.
+
 
 ## Empirical explanations
 
@@ -36,6 +44,7 @@ descent can further improve generalisation by selecting networks with a large ma
 
 - [Deep Learning Through the Lens of Example Difficulty](https://arxiv.org/pdf/2106.09647.pdf), Google Research 2021.
 - [Deep Learning on a Data Diet: Finding Important Examples Early in Training](https://arxiv.org/pdf/2107.07075.pdf), Jul. 15 2021. `nips2021`
+
 
 ### Generalization metrics
 
