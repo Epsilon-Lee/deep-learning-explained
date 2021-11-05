@@ -48,6 +48,7 @@ descent can further improve generalisation by selecting networks with a large ma
 
 ### Explaining representational power
 
+- [Grounding Representation Similarity with Statistical Testing](https://arxiv.org/pdf/2108.01661.pdf), Nov. 3 2021. `representation comparison`
 - [Revisiting Model Stitching to Compare Neural Representations](https://arxiv.org/pdf/2106.07682.pdf), Jun. 14 2021. `representation comparison`
 
 
