@@ -6,6 +6,10 @@ A collection of papers that try to explain the mysteries of deep learning with t
 
 ## Theory-oriented explanations
 
+### Neural Tangent Kernel, and PAC-Bayes
+
+- [How Tight Can PAC-Bayes be in the Small Data Regime?](https://arxiv.org/pdf/2106.03542.pdf), Oct. 27 2021.
+- 
 
 ### Training: SGD, learning dynamics, curriculum
 
@@ -33,7 +37,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [No One Representation to Rule Them All: Overlapping Features of Training Methods](https://arxiv.org/pdf/2110.12899.pdf), Oct. 26 2021.
 - [Gradient Descent on Two-layer Nets: Margin Maximization and Simplicity Bias](https://arxiv.org/abs/2110.13905), Oct. 26. 2021.
 - [Diversity and Generalization in Neural Network Ensembles](https://arxiv.org/pdf/2110.13786.pdf), Oct. 6 2021.
-
+- [The Limitations of Large Width in Neural Networks: A Deep Gaussian Process Perspective](https://arxiv.org/pdf/2106.06529.pdf), Jun. 11 2021.
 
 ### Interpolation and Extrapolation
 
