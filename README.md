@@ -35,7 +35,7 @@ descent can further improve generalisation by selecting networks with a large ma
 ### Data-centric understanding
 
 - [Deep Learning Through the Lens of Example Difficulty](https://arxiv.org/pdf/2106.09647.pdf), Google Research 2021.
-
+- [Deep Learning on a Data Diet: Finding Important Examples Early in Training](https://arxiv.org/pdf/2107.07075.pdf), Jul. 15 2021. `nips2021`
 
 ### Generalization metrics
 
