@@ -48,8 +48,14 @@ descent can further improve generalisation by selecting networks with a large ma
 
 ### Understanding representation learning
 
+### Self-supervised learning
+
+- [Exploring the Limits of Large Scale Pre-training](https://arxiv.org/pdf/2110.02095.pdf), Google Research.
+
 #### Contrastive learning
 
+- [The Power of Contrast for Feature Learning: A Theoretical Analysis](https://arxiv.org/pdf/2110.02473.pdf), Oct. 2021. James Zou's group.
+- [Sharp Learning Bounds for Contrastive Unsupervised Representation Learning](https://arxiv.org/pdf/2110.02501.pdf), Oct. 2021. RIKEN AIP.
 - [Can contrastive learning avoid shortcut solutions?](https://arxiv.org/pdf/2106.11230.pdf), Jun. 21 2021. MIT and Pittsburg univ.
 - [Intriguing Properties of Contrastive Losses](https://arxiv.org/pdf/2011.02803.pdf), Oct. 23 2021. Google Research.
 
