@@ -46,6 +46,13 @@ descent can further improve generalisation by selecting networks with a large ma
 
 ## Empirical explanations
 
+### Understanding representation learning
+
+#### Contrastive learning
+
+- [Can contrastive learning avoid shortcut solutions?](https://arxiv.org/pdf/2106.11230.pdf), Jun. 21 2021. MIT and Pittsburg univ.
+- [Intriguing Properties of Contrastive Losses](https://arxiv.org/pdf/2011.02803.pdf), Oct. 23 2021. Google Research.
+
 ### Explaining representational power
 
 - [Grounding Representation Similarity with Statistical Testing](https://arxiv.org/pdf/2108.01661.pdf), Nov. 3 2021. `representation comparison`
