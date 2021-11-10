@@ -19,6 +19,9 @@ A collection of papers that try to explain the mysteries of deep learning with t
 - [Parameter Prediction for Unseen Deep Architectures](https://arxiv.org/pdf/2110.13100.pdf), Oct. 25 2021.
 - [Gradient Starvation: A Learning Proclivity in Neural Networks](https://arxiv.org/pdf/2011.09468.pdf), Oct. 26 2021. `nips2021`
 - [What training reveals about neural network complexity](https://arxiv.org/pdf/2106.04186.pdf), Oct. 29 2021.
+- [A Loss Curvature Perspective on Training Instabilities of Deep Learning Models](https://openreview.net/forum?id=OcKMT-36vUs), `iclr2022 submit`
+- [Permutation-Based SGD: Is Random Optimal?](https://openreview.net/forum?id=YiBa9HKTyXE), `iclr2022 submit`
+- [A General Analysis of Example-Selection for Stochastic Gradient Descent](https://openreview.net/forum?id=7gWSJrP3opB), `iclr2022 submit`
 
 #### Training tricks
 
