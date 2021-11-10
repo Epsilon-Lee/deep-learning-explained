@@ -68,6 +68,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Grounding Representation Similarity with Statistical Testing](https://arxiv.org/pdf/2108.01661.pdf), Nov. 3 2021. `representation comparison`
 - [Revisiting Model Stitching to Compare Neural Representations](https://arxiv.org/pdf/2106.07682.pdf), Jun. 14 2021. `representation comparison`
 - [Comparing Text Representations: A Theory-Driven Approach](https://arxiv.org/pdf/2109.07458.pdf), Sep. 2021. `sentence embedding`
+- [Discovering and Explaining The Representation Bottleneck of DNNs](https://openreview.net/forum?id=iRCUlgmdfHJ), `iclr2022 submit`
 
 ### Data-centric understanding
 
