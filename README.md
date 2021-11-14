@@ -10,6 +10,10 @@ A collection of papers that try to explain the mysteries of deep learning with t
 
 - [How Tight Can PAC-Bayes be in the Small Data Regime?](https://arxiv.org/pdf/2106.03542.pdf), Oct. 27 2021.
 
+### Information-theoretic
+
+- [Towards a Unified Information-Theoretic Framework for Generalization](https://arxiv.org/pdf/2111.05275.pdf), Nov. 9 2021. `nips2021` Daniel Roy's group. `non-vacuous generalization bound`
+
 ### Training: SGD, learning dynamics, curriculum
 
 - [Stochastic Training is Not Necessary for Generalization](https://arxiv.org/pdf/2109.14119.pdf), Tom Goldstein's group, `nips2021`.
