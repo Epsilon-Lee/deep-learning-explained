@@ -86,6 +86,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Neural Tangent Kernel Eigenvalues Accurately Predict Generalization](https://arxiv.org/pdf/2110.03922.pdf), UCB，`nips2021` spotlight. 
 - [Predicting Unreliable Predictions by Shattering a Neural Network](https://arxiv.org/abs/2106.08365), 2021, Yoshua Bengio's group.
 - [On Predicting Generalization using GANs](https://arxiv.org/pdf/2111.14212.pdf), Nov. 28 2021.
+- [Intrinsic Dimension, Persistent Homology and Generalization in Neural Networks](https://arxiv.org/pdf/2111.13171.pdf), Nov. 25 2021.
 
 ### Other learning paradigms related to deep learning
 
