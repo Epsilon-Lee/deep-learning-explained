@@ -27,6 +27,7 @@ A collection of papers that try to explain the mysteries of deep learning with t
 - [Permutation-Based SGD: Is Random Optimal?](https://openreview.net/forum?id=YiBa9HKTyXE), `iclr2022 submit`
 - [A General Analysis of Example-Selection for Stochastic Gradient Descent](https://openreview.net/forum?id=7gWSJrP3opB), `iclr2022 submit`
 - [How many degrees of freedom do we need to train deep networks: a loss landscape perspective](https://arxiv.org/pdf/2107.05802.pdf), Jul. 13 2021.
+- [The Benefits of Implicit Regularization from SGD in Least Squares Problems](https://arxiv.org/abs/2108.04552), Aug. 10 2021 `nips2021`
 
 #### Training tricks
 
