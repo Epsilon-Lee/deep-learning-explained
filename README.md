@@ -68,6 +68,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Can contrastive learning avoid shortcut solutions?](https://arxiv.org/pdf/2106.11230.pdf), Jun. 21 2021. MIT and Pittsburg univ.
 - [Intriguing Properties of Contrastive Losses](https://arxiv.org/pdf/2011.02803.pdf), Oct. 23 2021. Google Research.
 - [Stochastic Contrastive Learning](https://arxiv.org/pdf/2110.00552.pdf), Oct. 2021. `interpretability`
+- [How Does Contrastive Pre-training Connect Disparate Domains?](https://openreview.net/pdf?id=ZKCw3atVfsy), `nipst2021`
 
 ### Explaining representational power
 
