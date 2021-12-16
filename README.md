@@ -88,3 +88,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Predicting Unreliable Predictions by Shattering a Neural Network](https://arxiv.org/abs/2106.08365), 2021, Yoshua Bengio's group.
 - [On Predicting Generalization using GANs](https://arxiv.org/pdf/2111.14212.pdf), Nov. 28 2021.
 - [Intrinsic Dimension, Persistent Homology and Generalization in Neural Networks](https://arxiv.org/pdf/2111.13171.pdf), Nov. 25 2021.
+
+### How to depict decision boundary of neural networks
+
+- [Can You Learn the Same Model Twice? Investigating Reproducibility and Double Descent from the Decision Boundary Perspective](https://somepago.github.io/files/db_preprint.pdf), Dec. 16 2021.
