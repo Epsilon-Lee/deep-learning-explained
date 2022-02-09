@@ -9,6 +9,7 @@ A collection of papers that try to explain the mysteries of deep learning with t
   - [Information-theoretic](#information-theoretic)
   - [Theory of training](#theory-of-training)
     - [Understanding training tricks](#understanding-training-tricks)
+  - [Implicit regularization](#implicit-regularization)
 - [Empirical observations and explanations](#empirical-observations-and-explanations)
   - [Self-supervised learning](#self-supervised-learning)
   - [Contrastive learning](#contrastive-learning)
@@ -64,6 +65,11 @@ descent can further improve generalisation by selecting networks with a large ma
 #### Understanding training tricks
 
 - [Does Knowledge Distillation Really Work?](https://arxiv.org/pdf/2106.05945.pdf), Jun. 10 2021. `nips2021`
+- [Understanding Why Generalized Reweighting Does Not Improve Over ERM](https://arxiv.org/pdf/2201.12293.pdf), Jan. 28 2022.
+
+### Implicit regularization
+
+- [Limitation of characterizing implicit regularization by data-independent functions](https://arxiv.org/pdf/2201.12198.pdf), Jan. 28 2022.
 
 ---
 
