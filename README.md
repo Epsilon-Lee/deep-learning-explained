@@ -20,6 +20,10 @@ A collection of papers that try to explain the mysteries of deep learning with t
 
 ## Theory-oriented explanations
 
+## Differential Equation view
+
+- [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165), Jun. 18 2021.
+
 ### Interpolation-Extrapolation tradeoffs
 
 - [Learning in High Dimension Always Amounts to Extrapolation](https://arxiv.org/abs/2110.09485), Oct. 18 2021, Yann LeCun et al.
