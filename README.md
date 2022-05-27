@@ -66,6 +66,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [How many degrees of freedom do we need to train deep networks: a loss landscape perspective](https://arxiv.org/pdf/2107.05802.pdf), Jul. 13 2021.
 - [The Benefits of Implicit Regularization from SGD in Least Squares Problems](https://arxiv.org/abs/2108.04552), Aug. 10 2021 `nips2021`
 - [The Limiting Dynamics of SGD: Modified Loss, Phase Space Oscillations, and Anomalous Diffusion](https://arxiv.org/pdf/2107.09133.pdf), Dec. 2 2022.
+- [Understanding Gradient Descent on Edge of Stability in Deep Learning](https://arxiv.org/pdf/2205.09745.pdf), May 22 2022.
 
 #### Understanding training tricks
 
