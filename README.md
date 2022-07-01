@@ -8,8 +8,10 @@ A collection of papers that try to explain the mysteries of deep learning with t
   - [Deep PAC and PAC-Bayes](#deep-pac-and-pac-bayes)
   - [Information-theoretic](#information-theoretic)
   - [Theory of training](#theory-of-training)
+    - [Neural Tangent Kernel](#neural-tangent-kernel)
     - [Understanding training tricks](#understanding-training-tricks)
   - [Implicit regularization](#implicit-regularization)
+
 - [Empirical observations and explanations](#empirical-observations-and-explanations)
   - [Self-supervised learning](#self-supervised-learning)
   - [Contrastive learning](#contrastive-learning)
@@ -28,7 +30,7 @@ A collection of papers that try to explain the mysteries of deep learning with t
 
 - [Learning in High Dimension Always Amounts to Extrapolation](https://arxiv.org/abs/2110.09485), Oct. 18 2021, Yann LeCun et al.
 
-### Inductive Bias and Neural Tangent Kernel
+### Inductive Bias
 
 - [On Margin Maximization in Linear and ReLU Networks](https://arxiv.org/pdf/2110.02732.pdf), Nathan Srebro's group, 2021.
 - [The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks](https://arxiv.org/pdf/2110.06296.pdf), 2021, Google Research.
@@ -67,6 +69,10 @@ descent can further improve generalisation by selecting networks with a large ma
 - [The Benefits of Implicit Regularization from SGD in Least Squares Problems](https://arxiv.org/abs/2108.04552), Aug. 10 2021 `nips2021`
 - [The Limiting Dynamics of SGD: Modified Loss, Phase Space Oscillations, and Anomalous Diffusion](https://arxiv.org/pdf/2107.09133.pdf), Dec. 2 2022.
 - [Understanding Gradient Descent on Edge of Stability in Deep Learning](https://arxiv.org/pdf/2205.09745.pdf), May 22 2022.
+
+#### Neural Tangent Kernel
+
+- [Learning sparse features can lead to overfitting in neural networks](https://arxiv.org/pdf/2206.12314.pdf), Jun. 24 2022.
 
 #### Understanding training tricks
 
@@ -108,6 +114,10 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Predicting Unreliable Predictions by Shattering a Neural Network](https://arxiv.org/abs/2106.08365), 2021, Yoshua Bengio's group.
 - [On Predicting Generalization using GANs](https://arxiv.org/pdf/2111.14212.pdf), Nov. 28 2021.
 - [Intrinsic Dimension, Persistent Homology and Generalization in Neural Networks](https://arxiv.org/pdf/2111.13171.pdf), Nov. 25 2021.
+
+#### Flatness
+
+- [On the Maximum Hessian Eigenvalue and Generalization](https://arxiv.org/pdf/2206.10654.pdf), Jun. 22 2022.
 
 ### Decision boundary
 
