@@ -4,6 +4,7 @@
 A collection of papers that try to explain the mysteries of deep learning with theories and empirical evidences.
 
 - [Theory-oriented explanations](#theory-oriented-explanations)
+  - [Differential equation view](#differential-equation-view)
   - [Interpolation-Extrapolation tradeoffs](#interpolation-extrapolation-tradeoffs)
   - [Deep PAC and PAC-Bayes](#deep-pac-and-pac-bayes)
   - [Information-theoretic](#information-theoretic)
@@ -22,7 +23,7 @@ A collection of papers that try to explain the mysteries of deep learning with t
 
 ## Theory-oriented explanations
 
-## Differential Equation view
+### Differential equation view
 
 - [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165), Jun. 18 2021.
 
