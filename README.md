@@ -74,6 +74,7 @@ descent can further improve generalisation by selecting networks with a large ma
 #### Neural Tangent Kernel
 
 - [Learning sparse features can lead to overfitting in neural networks](https://arxiv.org/pdf/2206.12314.pdf), Jun. 24 2022.
+- [Limitations of the NTK for Understanding Generalization in Deep Learning](https://arxiv.org/abs/2206.10012), Jun. 20 2022.
 
 #### Understanding training tricks
 
