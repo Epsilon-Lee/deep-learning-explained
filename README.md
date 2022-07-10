@@ -1,7 +1,7 @@
 
 # Deep learning explained
 
-A collection of papers that try to explain the mysteries of deep learning with theories and empirical evidences.
+A collection of papers that try to explain the mysteries of deep learning with theories and empirical evidences. And [here](https://hanin.princeton.edu/paper_list.pdf) is a curated resource of deep learning theory papers by Prof. Boris Hanin at Princeton.
 
 - [Theory-oriented explanations](#theory-oriented-explanations)
   - [Differential equation view](#differential-equation-view)
