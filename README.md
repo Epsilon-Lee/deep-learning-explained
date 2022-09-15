@@ -20,6 +20,7 @@ A collection of papers that try to explain the mysteries of deep learning with t
   - [Decision boundary](#decision-boundary)
   - [Data-centric understanding](#data-centric-understanding)
   - [Spurious correlation](#spurious-correlation)
+  - [Lottery ticket hypothesis](#lottery-ticket-hypothesis)
 
 ## Theory-oriented explanations
 
@@ -55,7 +56,7 @@ descent can further improve generalisation by selecting networks with a large ma
 
 ### Theory of training
 
-> SGD, learning dynamics, stochacity, learning curriculum etc.
+> SGD, loss landscape, learning dynamics, stochacity, learning curriculum etc.
 
 - [Stochastic Training is Not Necessary for Generalization](https://arxiv.org/pdf/2109.14119.pdf), Tom Goldstein's group, `nips2021`.
 - [Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://arxiv.org/pdf/2110.03677.pdf), Tuo Zhao's group.
@@ -72,6 +73,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [The Limiting Dynamics of SGD: Modified Loss, Phase Space Oscillations, and Anomalous Diffusion](https://arxiv.org/pdf/2107.09133.pdf), Dec. 2 2022.
 - [Understanding Gradient Descent on Edge of Stability in Deep Learning](https://arxiv.org/pdf/2205.09745.pdf), May 22 2022.
 - [Neural Networks can Learn Representations with Gradient Descent](https://arxiv.org/abs/2206.15144), Jun. 30 2022. `colt2022`
+- [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/abs/2209.04836), Sep. 11 2022. [tweet1](https://twitter.com/SamuelAinsworth/status/1569719494645526529?cxt=HBwWgsDRtYnk4cgrAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), [tweet2](https://twitter.com/iamtrask/status/1569809615398883328?cxt=HBwWgMC-reXhiskrAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email).
 
 #### Neural Tangent Kernel
 
@@ -136,6 +138,6 @@ descent can further improve generalisation by selecting networks with a large ma
 
 - [Understanding Rare Spurious Correlations in Neural Networks](https://arxiv.org/abs/2202.05189), Feb. 10 2022.
 
-### Lottery Ticket Hypothesis
+### Lottery ticket hypothesis
 
 - [Can You Win Everything with A Lottery Ticket?](https://openreview.net/forum?id=JL6MU9XFzW), TMLR 2022.
