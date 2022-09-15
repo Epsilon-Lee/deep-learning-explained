@@ -135,3 +135,7 @@ descent can further improve generalisation by selecting networks with a large ma
 ### Spurious correlation
 
 - [Understanding Rare Spurious Correlations in Neural Networks](https://arxiv.org/abs/2202.05189), Feb. 10 2022.
+
+### Lottery Ticket Hypothesis
+
+- [Can You Win Everything with A Lottery Ticket?](https://openreview.net/forum?id=JL6MU9XFzW), TMLR 2022.
