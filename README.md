@@ -85,6 +85,10 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Does Knowledge Distillation Really Work?](https://arxiv.org/pdf/2106.05945.pdf), Jun. 10 2021. `nips2021`
 - [Understanding Why Generalized Reweighting Does Not Improve Over ERM](https://arxiv.org/pdf/2201.12293.pdf), Jan. 28 2022.
 
+#### SGD for representation learning
+
+- [Neural Networks Efficiently Learn Low-Dimensional Representations with SGD](https://arxiv.org/pdf/2209.14863.pdf), Sep. 29 2022.
+
 ### Implicit regularization
 
 - [Limitation of characterizing implicit regularization by data-independent functions](https://arxiv.org/pdf/2201.12198.pdf), Jan. 28 2022.
