@@ -81,6 +81,7 @@ descent can further improve generalisation by selecting networks with a large ma
 
 - [Learning sparse features can lead to overfitting in neural networks](https://arxiv.org/pdf/2206.12314.pdf), Jun. 24 2022.
 - [Limitations of the NTK for Understanding Generalization in Deep Learning](https://arxiv.org/abs/2206.10012), Jun. 20 2022.
+- [The Influence of Learning Rule on Representation Dynamics in Wide Neural Networks](https://arxiv.org/pdf/2210.02157.pdf), Oct. 5 2022.
 
 #### Understanding training tricks
 
@@ -111,6 +112,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Intriguing Properties of Contrastive Losses](https://arxiv.org/pdf/2011.02803.pdf), Oct. 23 2021. Google Research.
 - [Stochastic Contrastive Learning](https://arxiv.org/pdf/2110.00552.pdf), Oct. 2021. `interpretability`
 - [How Does Contrastive Pre-training Connect Disparate Domains?](https://openreview.net/pdf?id=ZKCw3atVfsy), `nipst2021`
+- [Contrastive Learning Can Find An Optimal Basis for Approximately View-Invariant Functions](https://arxiv.org/pdf/2210.01883.pdf), arXiv Oct. 4 2022.
 
 ### Explaining representational power
 
