@@ -95,6 +95,7 @@ descent can further improve generalisation by selecting networks with a large ma
 ### Implicit regularization
 
 - [Limitation of characterizing implicit regularization by data-independent functions](https://arxiv.org/pdf/2201.12198.pdf), Jan. 28 2022.
+- [Implicit Bias in Leaky ReLU Networks Trained on High-Dimensional Data](https://arxiv.org/pdf/2210.07082.pdf), Oct. 2022.
 
 ---
 
