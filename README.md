@@ -76,6 +76,8 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Neural Networks can Learn Representations with Gradient Descent](https://arxiv.org/abs/2206.15144), Jun. 30 2022. `colt2022`
 - [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/abs/2209.04836), Sep. 11 2022. [tweet1](https://twitter.com/SamuelAinsworth/status/1569719494645526529?cxt=HBwWgsDRtYnk4cgrAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), [tweet2](https://twitter.com/iamtrask/status/1569809615398883328?cxt=HBwWgMC-reXhiskrAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), [tweet3](https://twitter.com/boazbaraktcs/status/1569744030090817539?cxt=HBwWhsDT3Zz47MgrAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email).
 - [The Dynamics of Sharpness-Aware Minimization: Bouncing Across Ravines and Drifting Towards Wide Minima](https://arxiv.org/pdf/2210.01513.pdf), Oct. 4 2022.
+- [From Gradient Flow on Population Loss to Learning with Stochastic Gradient Descent](https://arxiv.org/pdf/2210.06705.pdf), Oct. 13 2022.
+
 
 #### Neural Tangent Kernel
 
