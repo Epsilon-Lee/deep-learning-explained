@@ -151,7 +151,7 @@ descent can further improve generalisation by selecting networks with a large ma
 
 ### Spurious correlation
 
-- [Understanding Rare Spurious Correlations in Neural Networks](https://arxiv.org/abs/2202.05189), Feb. 10 2022.
+See [here](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/ood-related-topics-and-generalization-mystery.md#spurious-correlation) for the detailed discussion on spurious correlation.
 
 ### Lottery ticket hypothesis
 
