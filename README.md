@@ -77,7 +77,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/abs/2209.04836), Sep. 11 2022. [tweet1](https://twitter.com/SamuelAinsworth/status/1569719494645526529?cxt=HBwWgsDRtYnk4cgrAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), [tweet2](https://twitter.com/iamtrask/status/1569809615398883328?cxt=HBwWgMC-reXhiskrAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email), [tweet3](https://twitter.com/boazbaraktcs/status/1569744030090817539?cxt=HBwWhsDT3Zz47MgrAAAA&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email).
 - [The Dynamics of Sharpness-Aware Minimization: Bouncing Across Ravines and Drifting Towards Wide Minima](https://arxiv.org/pdf/2210.01513.pdf), Oct. 4 2022.
 - [From Gradient Flow on Population Loss to Learning with Stochastic Gradient Descent](https://arxiv.org/pdf/2210.06705.pdf), Oct. 13 2022.
-
+- [Grokking phase transitions in learning local rules with gradient descent](https://arxiv.org/pdf/2210.15435.pdf), Oct. 26 2022.
 
 #### Neural Tangent Kernel
 
@@ -99,13 +99,17 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Limitation of characterizing implicit regularization by data-independent functions](https://arxiv.org/pdf/2201.12198.pdf), Jan. 28 2022.
 - [Implicit Bias in Leaky ReLU Networks Trained on High-Dimensional Data](https://arxiv.org/pdf/2210.07082.pdf), Oct. 2022.
 
-## Theory of representation learning
+### Theory of representation learning
 
 - [Deep Learning meets Nonparametric Regression: Are Weight-Decayed DNNs Locally Adaptive?](https://arxiv.org/pdf/2204.09664.pdf), Jun. 13 2022.
 
 ---
 
 ## Empirical observations and explanations
+
+### Mechanistic interpretability of DL
+
+- [An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers](https://www.neelnanda.io/mechanistic-interpretability/favourite-papers), Oct. 18 2022.
 
 ### Self-supervised learning
 
