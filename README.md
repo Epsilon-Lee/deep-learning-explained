@@ -90,10 +90,6 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Does Knowledge Distillation Really Work?](https://arxiv.org/pdf/2106.05945.pdf), Jun. 10 2021. `nips2021`
 - [Understanding Why Generalized Reweighting Does Not Improve Over ERM](https://arxiv.org/pdf/2201.12293.pdf), Jan. 28 2022.
 
-#### SGD for representation learning
-
-- [Neural Networks Efficiently Learn Low-Dimensional Representations with SGD](https://arxiv.org/pdf/2209.14863.pdf), Sep. 29 2022.
-
 ### Implicit regularization
 
 - [Limitation of characterizing implicit regularization by data-independent functions](https://arxiv.org/pdf/2201.12198.pdf), Jan. 28 2022.
@@ -101,6 +97,7 @@ descent can further improve generalisation by selecting networks with a large ma
 
 ### Theory of representation learning
 
+- [Neural Networks Efficiently Learn Low-Dimensional Representations with SGD](https://arxiv.org/pdf/2209.14863.pdf), Sep. 29 2022. `sgd`
 - [Deep Learning meets Nonparametric Regression: Are Weight-Decayed DNNs Locally Adaptive?](https://arxiv.org/pdf/2204.09664.pdf), Jun. 13 2022.
 
 ---
@@ -160,3 +157,8 @@ See [here](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/ood-related
 ### Lottery ticket hypothesis
 
 - [Can You Win Everything with A Lottery Ticket?](https://openreview.net/forum?id=JL6MU9XFzW), TMLR 2022.
+
+### Memorization
+
+- [The Curious Case of Benign Memorization](https://arxiv.org/abs/2210.14019), Oct. 25 2022.
+  - _"only the very last layers are used for memorization, while preceding layers encode performant features which remain largely unaffected by the label noise"_
