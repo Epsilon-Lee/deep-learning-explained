@@ -21,6 +21,7 @@ A collection of papers that try to explain the mysteries of deep learning with t
   - [Data-centric understanding](#data-centric-understanding)
   - [Spurious correlation](#spurious-correlation)
   - [Lottery ticket hypothesis](#lottery-ticket-hypothesis)
+  - [Memorization](#memorization)
 
 ## Theory-oriented explanations
 
@@ -161,5 +162,12 @@ See [here](https://github.com/Epsilon-Lee/paper-jam/blob/main/topics/ood-related
 
 ### Memorization
 
+- [Network size and weights size for memorization with two-layers neural networks](https://arxiv.org/pdf/2006.02855.pdf), Nov. 3 2020.
+- [What Do Neural Networks Learn When Trained With Random Labels?](https://papers.nips.cc/paper/2020/file/e4191d610537305de1d294adb121b513-Paper.pdf), `nips2020`.
+- [Neural Networks Learning and Memorization with (almost) no Over-Parameterization](https://proceedings.neurips.cc/paper/2020/file/662a2e96162905620397b19c9d249781-Paper.pdf), `nips2020`.
+- [On the geometry of generalization and memorization in deep neural networks](https://openreview.net/forum?id=V8jrrnwGbuc), `iclr2021`.
 - [The Curious Case of Benign Memorization](https://arxiv.org/abs/2210.14019), Oct. 25 2022.
   - _"only the very last layers are used for memorization, while preceding layers encode performant features which remain largely unaffected by the label noise"_
+- [Distinguishing rule and exemplar-based generalization in learning systems](https://proceedings.mlr.press/v162/dasgupta22b.html), `icml2022`.
+  - The experiment setting has been applied to study in-context ability of Transformers [tweet](https://twitter.com/scychan_brains/status/1580563395891597312).
+- [Unintended memorisation of unique features in neural networks](https://arxiv.org/pdf/2205.10079.pdf), May 20 2022.
