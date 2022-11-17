@@ -57,7 +57,7 @@ descent can further improve generalisation by selecting networks with a large ma
 
 ### Theory of training
 
-> SGD, loss landscape, learning dynamics, stochacity, learning curriculum etc.
+> SGD, loss landscape, learning dynamics, stochacity, sgd for feature learning, learning curriculum etc.
 
 - [Don't Decay the Learning Rate, Increase the Batch Size](https://arxiv.org/abs/1711.00489#), Nov. 2017. `iclr2018`.
 - [Stochastic Training is Not Necessary for Generalization](https://arxiv.org/pdf/2109.14119.pdf), Tom Goldstein's group, `nips2021`.
@@ -80,6 +80,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [The Dynamics of Sharpness-Aware Minimization: Bouncing Across Ravines and Drifting Towards Wide Minima](https://arxiv.org/pdf/2210.01513.pdf), Oct. 4 2022.
 - [From Gradient Flow on Population Loss to Learning with Stochastic Gradient Descent](https://arxiv.org/pdf/2210.06705.pdf), Oct. 13 2022.
 - [Grokking phase transitions in learning local rules with gradient descent](https://arxiv.org/pdf/2210.15435.pdf), Oct. 26 2022.
+- [High-dimensional Asympototics of Feature Learning: How One Gradient Step Improves the Representation](https://arxiv.org/pdf/2205.01445.pdf), Jimmy Ba et al. arXiv May 3 2022.
 
 #### Neural Tangent Kernel
 
