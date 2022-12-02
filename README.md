@@ -81,6 +81,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [From Gradient Flow on Population Loss to Learning with Stochastic Gradient Descent](https://arxiv.org/pdf/2210.06705.pdf), Oct. 13 2022.
 - [Grokking phase transitions in learning local rules with gradient descent](https://arxiv.org/pdf/2210.15435.pdf), Oct. 26 2022.
 - [High-dimensional Asympototics of Feature Learning: How One Gradient Step Improves the Representation](https://arxiv.org/pdf/2205.01445.pdf), Jimmy Ba et al. arXiv May 3 2022.
+- [Exact learning dynamics of deep linear networks with prior knowledge](https://openreview.net/pdf?id=lJx2vng-KiC), `nips2022`. `learning dynamics`.
 
 #### Neural Tangent Kernel
 
@@ -103,19 +104,11 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Neural Networks Efficiently Learn Low-Dimensional Representations with SGD](https://arxiv.org/pdf/2209.14863.pdf), Sep. 29 2022. `sgd`
 - [Deep Learning meets Nonparametric Regression: Are Weight-Decayed DNNs Locally Adaptive?](https://arxiv.org/pdf/2204.09664.pdf), Jun. 13 2022.
 
----
-
-## Empirical observations and explanations
-
-### Mechanistic interpretability of DL
-
-- [An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers](https://www.neelnanda.io/mechanistic-interpretability/favourite-papers), Oct. 18 2022.
-
-### Self-supervised learning
+#### Self-supervised learning
 
 - [Exploring the Limits of Large Scale Pre-training](https://arxiv.org/pdf/2110.02095.pdf), Google Research.
 
-#### Contrastive learning
+##### Contrastive learning
 
 - [The Power of Contrast for Feature Learning: A Theoretical Analysis](https://arxiv.org/pdf/2110.02473.pdf), Oct. 2021. James Zou's group.
 - [Sharp Learning Bounds for Contrastive Unsupervised Representation Learning](https://arxiv.org/pdf/2110.02501.pdf), Oct. 2021. RIKEN AIP.
@@ -124,14 +117,23 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Stochastic Contrastive Learning](https://arxiv.org/pdf/2110.00552.pdf), Oct. 2021. `interpretability`
 - [How Does Contrastive Pre-training Connect Disparate Domains?](https://openreview.net/pdf?id=ZKCw3atVfsy), `nipst2021`
 - [Contrastive Learning Can Find An Optimal Basis for Approximately View-Invariant Functions](https://arxiv.org/pdf/2210.01883.pdf), arXiv Oct. 4 2022.
+- [Understanding Deep Contrastive Learning via Coordinate-wise Optimization](https://arxiv.org/pdf/2201.12680.pdf), `nips2022`.
 
-### Explaining representational power
+#### Explaining representational power
 
 - [Emergence of Invariance and Disentanglement in Deep Representations](https://jmlr.org/papers/volume19/17-646/17-646.pdf), `jmlr2018`
 - [Grounding Representation Similarity with Statistical Testing](https://arxiv.org/pdf/2108.01661.pdf), Nov. 3 2021. `representation comparison`
 - [Revisiting Model Stitching to Compare Neural Representations](https://arxiv.org/pdf/2106.07682.pdf), Jun. 14 2021. `representation comparison`
 - [Comparing Text Representations: A Theory-Driven Approach](https://arxiv.org/pdf/2109.07458.pdf), Sep. 2021. `sentence embedding`
 - [Discovering and Explaining The Representation Bottleneck of DNNs](https://openreview.net/forum?id=iRCUlgmdfHJ), `iclr2022 submit`
+
+---
+
+## Empirical observations and explanations
+
+### Mechanistic interpretability of DL
+
+- [An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers](https://www.neelnanda.io/mechanistic-interpretability/favourite-papers), Oct. 18 2022.
 
 ### Generalization metrics
 
