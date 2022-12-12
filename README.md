@@ -117,6 +117,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Stochastic Contrastive Learning](https://arxiv.org/pdf/2110.00552.pdf), Oct. 2021. `interpretability`
 - [How Does Contrastive Pre-training Connect Disparate Domains?](https://openreview.net/pdf?id=ZKCw3atVfsy), `nipst2021`
 - [Contrastive Learning Can Find An Optimal Basis for Approximately View-Invariant Functions](https://arxiv.org/pdf/2210.01883.pdf), arXiv Oct. 4 2022.
+- [Do More Negative Samples Necessarily Hurt In Contrastive Learning?](https://arxiv.org/pdf/2205.01789.pdf), Jun. 22 2022. `icml2022`.
 - [Understanding Deep Contrastive Learning via Coordinate-wise Optimization](https://arxiv.org/pdf/2201.12680.pdf), `nips2022`.
 
 #### Explaining representational power
