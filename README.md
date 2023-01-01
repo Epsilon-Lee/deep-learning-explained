@@ -12,6 +12,7 @@ A collection of papers that try to explain the mysteries of deep learning with t
     - [Neural Tangent Kernel](#neural-tangent-kernel)
     - [Understanding training tricks](#understanding-training-tricks)
   - [Implicit regularization](#implicit-regularization)
+  - [Theory of representation learning](#theory-of-representation-learning)
 
 - [Empirical observations and explanations](#empirical-observations-and-explanations)
   - [Self-supervised learning](#self-supervised-learning)
@@ -103,6 +104,8 @@ descent can further improve generalisation by selecting networks with a large ma
 
 - [Neural Networks Efficiently Learn Low-Dimensional Representations with SGD](https://arxiv.org/pdf/2209.14863.pdf), Sep. 29 2022. `sgd`
 - [Deep Learning meets Nonparametric Regression: Are Weight-Decayed DNNs Locally Adaptive?](https://arxiv.org/pdf/2204.09664.pdf), Jun. 13 2022.
+- [Feature learning in neural networks and kernel machines that recursively learn features](https://arxiv.org/pdf/2212.13881.pdf), Dec. 28 2022.
+  - From Mikhail Belkin's group.
 
 #### Self-supervised learning
 
