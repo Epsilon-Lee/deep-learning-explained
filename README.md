@@ -123,6 +123,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Do More Negative Samples Necessarily Hurt In Contrastive Learning?](https://arxiv.org/pdf/2205.01789.pdf), Jun. 22 2022. `icml2022`.
 - [Understanding Deep Contrastive Learning via Coordinate-wise Optimization](https://arxiv.org/pdf/2201.12680.pdf), `nips2022`.
 - [Understanding Contrastive Learning Requires Incorporating Inductive Biases](https://arxiv.org/pdf/2202.14037.pdf), Feb. 28 2022.
+- [Feature Dropout: Revisiting the Role of Augmentations in Contrastive Learning](https://sslneurips22.github.io/paper_pdfs/paper_60.pdf), Dec. 15 2022.
 
 #### Explaining representational power
 
