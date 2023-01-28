@@ -83,6 +83,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Grokking phase transitions in learning local rules with gradient descent](https://arxiv.org/pdf/2210.15435.pdf), Oct. 26 2022.
 - [High-dimensional Asympototics of Feature Learning: How One Gradient Step Improves the Representation](https://arxiv.org/pdf/2205.01445.pdf), Jimmy Ba et al. arXiv May 3 2022.
 - [Exact learning dynamics of deep linear networks with prior knowledge](https://openreview.net/pdf?id=lJx2vng-KiC), `nips2022`. `learning dynamics`.
+- [Handbook of Convergence Theorems for (Stochastic) Gradient Methods](https://arxiv.org/abs/2301.11235), Jan. 26 2023.
 
 #### Neural Tangent Kernel
 
