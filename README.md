@@ -138,6 +138,10 @@ descent can further improve generalisation by selecting networks with a large ma
 
 ## Empirical observations and explanations
 
+### Double descent
+
+- [Double Descent Demystified: Identifying, Interpreting & Ablating the Sources of a Deep Learning Puzzle](https://arxiv.org/pdf/2303.14151.pdf), Mar. 24 2023.
+
 ### Mechanistic interpretability of DL
 
 - [An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers](https://www.neelnanda.io/mechanistic-interpretability/favourite-papers), Oct. 18 2022.
