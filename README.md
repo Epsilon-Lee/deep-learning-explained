@@ -133,6 +133,7 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Revisiting Model Stitching to Compare Neural Representations](https://arxiv.org/pdf/2106.07682.pdf), Jun. 14 2021. `representation comparison`
 - [Comparing Text Representations: A Theory-Driven Approach](https://arxiv.org/pdf/2109.07458.pdf), Sep. 2021. `sentence embedding`
 - [Discovering and Explaining The Representation Bottleneck of DNNs](https://openreview.net/forum?id=iRCUlgmdfHJ), `iclr2022 submit`
+- [A theory of representation learning in deep neural networks gives a deep generalisation of kernel methods](https://arxiv.org/pdf/2108.13097.pdf), Apr. 23 2023. `icml2023`.
 
 ---
 
