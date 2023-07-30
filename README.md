@@ -135,6 +135,10 @@ descent can further improve generalisation by selecting networks with a large ma
 - [Discovering and Explaining The Representation Bottleneck of DNNs](https://openreview.net/forum?id=iRCUlgmdfHJ), `iclr2022 submit`
 - [A theory of representation learning in deep neural networks gives a deep generalisation of kernel methods](https://arxiv.org/pdf/2108.13097.pdf), Apr. 23 2023. `icml2023`.
 
+#### Neural collapse
+
+- [Prevalence of Neural Collapse during the terminal phase of deep learning training](https://arxiv.org/pdf/2008.08186.pdf), Aug. 21 2020.
+
 ---
 
 ## Empirical observations and explanations
