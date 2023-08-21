@@ -34,6 +34,7 @@ A collection of papers that try to explain the mysteries of deep learning with t
 
 - [Learning in High Dimension Always Amounts to Extrapolation](https://arxiv.org/abs/2110.09485), Oct. 18 2021, Yann LeCun et al.
 - [Benign, Tempered, or Catastrophic: A Taxonomy of Overftting](https://arxiv.org/pdf/2207.06569.pdf), Jul. 14 2022.
+- [Benign Overfitting for Two-layer ReLU Networks](https://arxiv.org/abs/2303.04145), Mar. 7 2023.
 
 ### Inductive Bias
 
