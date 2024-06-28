@@ -14,10 +14,11 @@ I would like to first survey several introductory books about deep learning, a n
 - "Deep Learning: Foundations and Concepts", Chris Bishop et al. 2024.
 
 After extracting the key technical advancements along these years from the books (most of them are textbooks), I would like to further discuss and experiment more on the following topics under the light of optimization theory, generalization theory and learning dynamics:
+- **optimization methods**: for example, how learning rate warmup stabilizes gradient descent from finetuned models (how about random initialized model);
 - **input representations**: for example, the acceleration of learning with feature binning and embedding than original numerical ones in tabular deep learning;
 - **initialization methods**: for example, the acceleration of optimization via weight transpose and tying in autoencoders;
 - **architectural inductive biases**: for example, how highway net and resnet alleviate gradient diminishing, how normalization techniques accelerate optimization;
-- **scaling up and double descent**: for example, do scaling up really accelerate learning and improve generalization in all kinds of neural architectures.
+- **scaling up and double descent**: for example, do scaling up really accelerate learning and improve generalization in all kinds of neural architectures;
 
 
 
