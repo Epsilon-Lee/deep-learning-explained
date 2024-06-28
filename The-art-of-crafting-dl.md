@@ -17,7 +17,7 @@ After extracting the key technical advancements along these years from the books
 - **optimization methods**: for example, how learning rate warmup stabilizes gradient descent from finetuned models (how about random initialized model);
 - **input representations**: for example, the acceleration of learning with feature binning and embedding than original numerical ones in tabular deep learning;
 - **initialization methods**: for example, the acceleration of optimization via weight transpose and tying in autoencoders;
-- **architectural inductive biases**: for example, how highway net and resnet alleviate gradient diminishing, how normalization techniques accelerate optimization;
+- **architectural inductive biases**: for example, how highway net and resnet alleviate gradient vanishing, how normalization techniques accelerate optimization;
 - **scaling up and double descent**: for example, do scaling up really accelerate learning and improve generalization in all kinds of neural architectures;
 
 
