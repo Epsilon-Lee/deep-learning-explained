@@ -20,6 +20,10 @@ After extracting the key technical advancements along these years from the books
 - **architectural inductive biases**: for example, how highway net and resnet alleviate gradient vanishing, how normalization techniques accelerate optimization;
 - **scaling up and double descent**: for example, do scaling up really accelerate learning and improve generalization in all kinds of neural architectures;
 
+***2024/7/1***.
+I realize that starting to write this booklet from top-down is very difficult based on my current knowledge.
+So I would like to do the Jigsaw Puzzle, where I first write several pieces, and organize my writings locally, and then start to put them together under a coherent logic.
 
+- **Normalization techniques**. The first topic I want to start with is normalization, an architectural component that accelerates optimization and improve generalization. See [this](https://github.com/Epsilon-Lee/deep-learning-explained/blob/main/topics/normalization.md) markdown file for the details.
 
 
