@@ -24,6 +24,7 @@ After extracting the key technical advancements along these years from the books
 - **Architectural Inductive Biases**: for example, how highway net and resnet alleviate gradient vanishing, how normalization techniques accelerate optimization;
   - [Training Very Deep Networks](https://arxiv.org/abs/1507.06228), Jul. 22 2015.
   - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385), Dec. 10 2015.
+  - [Learning sparse neural networks through L0 regularization](https://openreview.net/pdf?id=H1Y8hhg0b), ICLR 2018.
 - **Regularization**: for example, how to impose sparsity on neural networks, and how to avoid overfitting (dropout, label-smoothing).
 - **Scaling-up and Double Descent**: for example, do scaling up really accelerate learning and improve generalization in all kinds of neural architectures;
 
