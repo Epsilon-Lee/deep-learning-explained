@@ -11,11 +11,11 @@ And no one can grasp the motivation and reasoning behind these historically dist
 This booklet is aiming to provide a biased perspective on my effort for achieving the above goal.
 
 I would like to first survey several introductory books about deep learning, a non-exhaustive list is the following (see [here](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources?tab=readme-ov-file#deep-learning--neural-networks) for a more complete list of books):
-- "Deep Learning", Ian Goodfellow et al. 2016.
-- "Dive into Deep Learning", Aston Zhang, 2021.
-- "The Little Book of Deep Learning", Francois Fleuret, 2023.
-- "Understanding Deep Learning", Simon J. D. Prince, 2023.
-- "Deep Learning: Foundations and Concepts", Chris Bishop et al. 2024.
+- *"Deep Learning", Ian Goodfellow et al. 2016.*
+- *"Dive into Deep Learning", Aston Zhang, 2021.*
+- *"The Little Book of Deep Learning", Francois Fleuret, 2023.*
+- *"Understanding Deep Learning", Simon J. D. Prince, 2023.*
+- *"Deep Learning: Foundations and Concepts", Chris Bishop et al. 2024.*
 
 After extracting the key technical advancements along these years from the books (most of them are textbooks), I would like to further discuss and experiment more on the following topics under the light of optimization theory, generalization theory and learning dynamics:
 - **Optimization Methods**: for example, how learning rate warmup stabilizes gradient descent from finetuned models (how about random initialized model);
