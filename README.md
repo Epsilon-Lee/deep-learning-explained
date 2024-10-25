@@ -62,6 +62,7 @@ descent can further improve generalisation by selecting networks with a large ma
 > SGD, loss landscape, learning dynamics, stochacity, sgd for feature learning, learning curriculum etc.
 
 - [Don't Decay the Learning Rate, Increase the Batch Size](https://arxiv.org/abs/1711.00489#), Nov. 2017. `iclr2018`.
+- [Implicit Bias of Gradient Descent for Wide Two-layer Neural Networks Trained with the Logistic Loss](https://proceedings.mlr.press/v125/chizat20a/chizat20a.pdf), COLT 2020.
 - [Stochastic Training is Not Necessary for Generalization](https://arxiv.org/pdf/2109.14119.pdf), Tom Goldstein's group, `nips2021`.
 - [Large Learning Rate Tames Homogeneity: Convergence and Balancing Effect](https://arxiv.org/pdf/2110.03677.pdf), Tuo Zhao's group.
 - [Momentum Doesn't Change The Implicit Bias](https://arxiv.org/pdf/2110.03891.pdf).
