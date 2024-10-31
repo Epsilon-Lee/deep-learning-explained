@@ -32,6 +32,9 @@ A collection of papers that try to explain the mysteries of deep learning with t
 
 ### Interpolation-Extrapolation tradeoffs
 
+- [Overfitting or perfect fitting? Risk bounds for classification and regression rules that interpolate](https://proceedings.neurips.cc/paper_files/paper/2018/file/e22312179bf43e61576081a2f250f845-Paper.pdf), NeurIPS 2018.
+- [The Power of Interpolation: Understanding the Effectiveness of SGD in Modern Over-parametrized Learning](https://proceedings.mlr.press/v80/ma18a.html), ICML 2018.
+- [Training Neural Networks for and by Interpolation](https://proceedings.mlr.press/v119/berrada20a/berrada20a.pdf), ICML 2019.
 - [Learning in High Dimension Always Amounts to Extrapolation](https://arxiv.org/abs/2110.09485), Oct. 18 2021, Yann LeCun et al.
 - [Benign, Tempered, or Catastrophic: A Taxonomy of Overftting](https://arxiv.org/pdf/2207.06569.pdf), Jul. 14 2022.
 - [Benign Overfitting for Two-layer ReLU Networks](https://arxiv.org/abs/2303.04145), Mar. 7 2023.
